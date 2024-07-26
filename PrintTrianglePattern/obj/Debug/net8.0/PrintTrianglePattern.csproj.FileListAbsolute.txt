@@ -1,0 +1,14 @@
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/bin/Debug/net8.0/PrintTrianglePattern
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/bin/Debug/net8.0/PrintTrianglePattern.deps.json
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/bin/Debug/net8.0/PrintTrianglePattern.runtimeconfig.json
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/bin/Debug/net8.0/PrintTrianglePattern.dll
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/bin/Debug/net8.0/PrintTrianglePattern.pdb
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/PrintTrianglePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/PrintTrianglePattern.AssemblyInfoInputs.cache
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/PrintTrianglePattern.AssemblyInfo.cs
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/PrintTrianglePattern.csproj.CoreCompileInputs.cache
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/PrintTrianglePattern.dll
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/refint/PrintTrianglePattern.dll
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/PrintTrianglePattern.pdb
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/PrintTrianglePattern.genruntimeconfig.cache
+/Users/siddhantshrivastav/Desktop/C# Programming/PrintTrianglePattern/obj/Debug/net8.0/ref/PrintTrianglePattern.dll
